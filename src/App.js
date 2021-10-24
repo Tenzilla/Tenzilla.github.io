@@ -18,6 +18,7 @@ function App() {
         >
           here
         </a>
+        <p> Feel free to contact me at my email: Tenzins97@gmail.com </p>
       </header>
     </div>
   );
